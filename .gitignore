@@ -1,0 +1,20 @@
+# frontend
+node_modules/
+dist/
+.env.local
+
+# backend
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# system
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
+
+start_dev.bat
